@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="100%" height="100%" version="1.1"
+ xmlns = 'http://www.w3.org/2000/svg'>
+  <font id = "EAN_Font"
+        horiz-adv-x   = "6000"
+        vert-origin-x = "0"
+        vert-origin-y = "0">
+    <font-face font-family  = "EAN_Font"
+               font-weight  = "normal"
+               font-style="normal"
+               units-per-em = "6000"
+               cap-height   = "6000"
+               x-height     = "6000"
+               bbox         = "0 0 6000 6000">
+      <font-face-src>
+        <font-face-name name="EAN_Font"/>
+      </font-face-src>
+    </font-face>
+    <glyph unicode = "-" horiz-adv-x="700" />
+    <glyph unicode = "a" horiz-adv-x="700" />
+    <glyph unicode = "L0" horiz-adv-x = "700" d="M 300, 0 V 6000 h 200 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "L1" horiz-adv-x = "700" d="M 200, 0 V 6000 h 200 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "L2" horiz-adv-x = "700" d="M 200, 0 V 6000 h 100 V 0 z M 500, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "L3" horiz-adv-x = "700" d="M 100, 0 V 6000 h 400 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "L4" horiz-adv-x = "700" d="M 100, 0 V 6000 h 100 V 0 z M 500, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "L5" horiz-adv-x = "700" d="M 100, 0 V 6000 h 200 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "L6" horiz-adv-x = "700" d="M 100, 0 V 6000 h 100 V 0 z M 300, 0 V 6000 h 400 V 0 z" />
+    <glyph unicode = "L7" horiz-adv-x = "700" d="M 100, 0 V 6000 h 300 V 0 z M 500, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "L8" horiz-adv-x = "700" d="M 100, 0 V 6000 h 200 V 0 z M 400, 0 V 6000 h 300 V 0 z" />
+    <glyph unicode = "L9" horiz-adv-x = "700" d="M 300, 0 V 6000 h 100 V 0 z M 500, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "G0" horiz-adv-x = "700" d="M 100, 0 V 6000 h 100 V 0 z M 400, 0 V 6000 h 300 V 0 z" />
+    <glyph unicode = "G1" horiz-adv-x = "700" d="M 100, 0 V 6000 h 200 V 0 z M 500, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "G2" horiz-adv-x = "700" d="M 200, 0 V 6000 h 200 V 0 z M 500, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "G3" horiz-adv-x = "700" d="M 100, 0 V 6000 h 100 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "G4" horiz-adv-x = "700" d="M 200, 0 V 6000 h 300 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "G5" horiz-adv-x = "700" d="M 100, 0 V 6000 h 300 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "G6" horiz-adv-x = "700" d="M 400, 0 V 6000 h 100 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "G7" horiz-adv-x = "700" d="M 200, 0 V 6000 h 100 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "G8" horiz-adv-x = "700" d="M 300, 0 V 6000 h 100 V 0 z M 600, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "G9" horiz-adv-x = "700" d="M 200, 0 V 6000 h 100 V 0 z M 400, 0 V 6000 h 300 V 0 z" />
+    <glyph unicode = "R0" horiz-adv-x = "700" d="M 0, 0 V 6000 h 300 V 0 z M 500, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "R1" horiz-adv-x = "700" d="M 0, 0 V 6000 h 200 V 0 z M 400, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "R2" horiz-adv-x = "700" d="M 0, 0 V 6000 h 200 V 0 z M 300, 0 V 6000 h 200 V 0 z" />
+    <glyph unicode = "R3" horiz-adv-x = "700" d="M 0, 0 V 6000 h 100 V 0 z M 500, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "R4" horiz-adv-x = "700" d="M 0, 0 V 6000 h 100 V 0 z M 200, 0 V 6000 h 300 V 0 z" />
+    <glyph unicode = "R5" horiz-adv-x = "700" d="M 0, 0 V 6000 h 100 V 0 z M 300, 0 V 6000 h 300 V 0 z" />
+    <glyph unicode = "R6" horiz-adv-x = "700" d="M 0, 0 V 6000 h 100 V 0 z M 200, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "R7" horiz-adv-x = "700" d="M 0, 0 V 6000 h 100 V 0 z M 400, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "R8" horiz-adv-x = "700" d="M 0, 0 V 6000 h 100 V 0 z M 300, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "R9" horiz-adv-x = "700" d="M 0, 0 V 6000 h 300 V 0 z M 400, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "**" horiz-adv-x = "500" d="M 100, 0 V 6000 h 100 V 0 z M 300, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "*" horiz-adv-x = "300" d="M 0, 0 V 6000 h 100 V 0 z M 200, 0 V 6000 h 100 V 0 z" />
+    <glyph unicode = "_0" horiz-adv-x = "700" />
+    <glyph unicode = "_1" horiz-adv-x = "700" />
+    <glyph unicode = "_2" horiz-adv-x = "700" />
+    <glyph unicode = "_3" horiz-adv-x = "700" />
+    <glyph unicode = "_4" horiz-adv-x = "700" />
+    <glyph unicode = "_5" horiz-adv-x = "700" />
+    <glyph unicode = "_6" horiz-adv-x = "700" />
+    <glyph unicode = "_7" horiz-adv-x = "700" />
+    <glyph unicode = "_8" horiz-adv-x = "700" />
+    <glyph unicode = "_9" horiz-adv-x = "700" />
+    <glyph unicode = "&#x20;" horiz-adv-x="700" />
+    <missing-glyph horiz-adv-x="700"></missing-glyph>
+  </font>
+</svg>
